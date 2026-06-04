@@ -8,4 +8,5 @@ dependencies = [
     "anthropic>=0.105.2",
     "mcp>=1.27.2",
     "python-dotenv>=1.2.2",
+    "groq>=0.4.1",
 ]
